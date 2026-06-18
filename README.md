@@ -1,4 +1,4 @@
-# ✦ Executive Sales Intelligence Matrix - Track: DS
+# ✦ Business Sales Performance Analytics - Track: DS
 
 ## 📝 Project Overview
 This repository contains a high-fidelity, corporate dark-mode analytics dashboard engineered using Python (`pandas`, `matplotlib`, and `gridspec`). The objective was to build a multi-tonal executive control center optimizing regional revenue channels, product performance metrics, and volume allocation with zero data-text collisions.
